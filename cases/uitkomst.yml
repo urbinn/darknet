@@ -1,0 +1,51 @@
+Case: 0000000010
+	Color: Monochrome
+	raw:
+		image_type: PNG
+		width: 1392px
+		height: 512px
+	chopped:
+		image_type: PNG
+		width: 512px
+		height: 512px
+		count: 3
+
+Case: 0000000110
+	Color: Monochrome
+	raw:
+		image_type: PNG
+		width: 1392px
+		height: 512px
+	chopped:
+		image_type: PNG
+		width: 512px
+		height: 512px
+		count: 4
+
+Case: downtown
+	Color: RGB
+	raw:
+		image_type: JPG
+		width: 1920px
+		height: 1080px
+	chopped:
+		image_type: PNG
+		width: 1080px
+		height: 1080px
+		count: 2
+
+Case: delft1
+	Color: RGB
+	raw:
+		image_type: JPG
+		width: 3264px
+		height: 2448px
+
+Case: delft2
+	Color: RGB
+	raw:
+		image_type: JPG
+		width: 3264px
+		height: 2448px
+
+
